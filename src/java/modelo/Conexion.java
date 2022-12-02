@@ -18,8 +18,8 @@ public class Conexion {
     
     private static final String driver="com.mysql.jdbc.Driver";
     private static final String user="root";
-    private static final String pass="";
-    private static final String url="jdbc:mysql://localhost:3306/examen";
+    private static final String pass="GBK4VWwOs4";
+    private static final String url="jdbc:mysql://node121657-env-6609444.jelastic.saveincloud.net:3306/examen";
     
     
      public Connection getConnection() {
